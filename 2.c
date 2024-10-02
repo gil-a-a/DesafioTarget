@@ -22,7 +22,7 @@ int main ()
 	if (count == 0)
 		printf("Não há a letra 'a' na string\n");
 	else
-		printf("A lestra 'a' aparece %d vezes na string\n", count);
+		printf("A letra 'a' aparece %d vezes na string\n", count);
 
 	return 0;	
 }
